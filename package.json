@@ -1,0 +1,11 @@
+{
+  "author": "t4ss5t",
+  "name": "supervoter",
+  "version": "0.1.0",
+  "homepage": "http://www.github.com/t4ss5t/supervoter",
+  "bugs": "http://www.github.com/t4ss5t/supervoter/issues",
+  "dependencies": {
+    "q": "*",
+    "firefox-profile": "*"
+  }
+}
