@@ -26,11 +26,11 @@ You need firefox to use this script.
 
 ### Download the SuperVoter repository
 
-Download {@link https://github.com/t4ss5t/supervoter/archive/master.zip SuperVoter} and unzip.
+Download [SuperVoter](https://github.com/t4ss5t/supervoter/archive/master.zip) and unzip.
 
 ### Node.js
 
-Download from {@link https://nodejs.org/en/ Node.js} and install.
+Download from [Node.js](https://nodejs.org/en/) and install.
 
 ### NPM
 
