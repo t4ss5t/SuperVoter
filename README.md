@@ -135,6 +135,12 @@ cd C:\SuperVoter
 protractor config.js
 ```
 
+To be reminded if you can run the script again add the reminder:
+
+```
+protractor config.js & node reminder.js
+```
+
 3. Wait for captcha code popup
 
 4. Insert captcha code to text input field immediately
